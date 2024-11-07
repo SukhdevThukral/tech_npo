@@ -1,0 +1,15 @@
+{
+  "glyphs": {
+    "<": {"ha": 600, "x_min": 80, "x_max": 520, "o": "M 80 300 L 300 80 L 520 300 L 300 520 Z"},
+    "/": {"ha": 600, "x_min": 80, "x_max": 520, "o": "M 80 520 L 300 80 L 520 520 Z"},
+    ">": {"ha": 600, "x_min": 80, "x_max": 520, "o": "M 80 80 L 300 300 L 80 520 L 300 300 Z"}
+  },
+  "familyName": "Inter",
+  "ascender": 800,
+  "descender": -200,
+  "underlinePosition": -100,
+  "underlineThickness": 50,
+  "boundingBox": {"yMin": -200, "xMin": 0, "yMax": 800, "xMax": 600},
+  "resolution": 1000,
+  "original_font_information": {"format": 0, "copyright": "", "fontFamily": "Inter", "fontSubfamily": "Bold"}
+}
